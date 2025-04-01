@@ -1,5 +1,5 @@
 {
-    "discord_token": "SLAP_TOKEN_HERE",
+    "discord_token": "YOUR_BOT_TOKEN_HERE",
     "prefix": "!",
     "admin_ids": []
 }
