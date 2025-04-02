@@ -2,11 +2,15 @@
 
 **A sophisticated cryptocurrency trading bot for Discord** with real-time market data, trading signals, portfolio management, paper trading, and backtesting capabilities.  
 
-⭐ **Leave a star on [GitHub](https://github.com/nextcodeworks/DiscordTradingBot) if you like this project!** ⭐  
+⭐ **Leave a star if you like this project!** ⭐  
 
 ---
 
 ## 📸 Screenshots  
+
+<a href="screenshots/!about.png">
+  <img src="screenshots/!about.png" width="700" />
+</a>
 
 *(Space for screenshots of the bot in action - add images showing command examples, portfolio views, trading signals, etc.)*  
 
