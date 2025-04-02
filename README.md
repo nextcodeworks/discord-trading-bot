@@ -9,11 +9,11 @@
 ## 📸 Screenshots  
 
 <a href="screenshots/!bothelp.png">
-  <img src="screenshots/!bothelp.png" width="500" />
+  <img src="screenshots/!bothelp.png" height="500" />
 </a>
 
 <a href="screenshots/!signals.png">
-  <img src="screenshots/!signals.png" width="500" />
+  <img src="screenshots/!signals.png" height="500" />
 </a>
 
 *Check [screenshots](screenshots/) for more examples.*  
