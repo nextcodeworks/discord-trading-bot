@@ -8,11 +8,15 @@
 
 ## 📸 Screenshots  
 
-<a href="screenshots/!about.png">
-  <img src="screenshots/!about.png" width="700" />
+<a href="screenshots/!bothelp.png">
+  <img src="screenshots/!bothelp.png" width="700" />
 </a>
 
-*(Space for screenshots of the bot in action - add images showing command examples, portfolio views, trading signals, etc.)*  
+<a href="screenshots/!signals.png">
+  <img src="screenshots/!signals.png" width="700" />
+</a>
+
+*Check [screenshots](screenshots/) for more examples.*  
 
 ---
 
