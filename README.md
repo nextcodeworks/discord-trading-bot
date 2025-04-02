@@ -13,7 +13,7 @@
 </a>
 
 <a href="screenshots/!signals.png">
-  <img src="screenshots/!signals.png" width="300" />
+  <img src="screenshots/!signals.png" width="500" />
 </a>
 
 *Check [screenshots](screenshots/) for more examples.*  
